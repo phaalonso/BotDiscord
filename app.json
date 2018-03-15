@@ -1,0 +1,18 @@
+{
+  "name": "selam-kok-kontol",
+  "scripts": {
+  },
+  "env": {
+    "TOKEN": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
